@@ -1,17 +1,17 @@
-# Vitesse Soft for Zed
+# Vitesse Creamy for Zed
 
 A light Zed theme matched to Vitesse Light Soft in VS Code, including this setup's warm outer frame. The palette comes from Anthony Fu's Vitesse 1.0.1. This is an independent Zed mapping, not a modified copy of Vitesse Refined.
 
 ## Install
 
-Copy `themes/vitesse-soft.json` to `~/.config/zed/themes/`, open Zed's theme selector (`Cmd+K`, then `Cmd+T` on macOS), and select **Vitesse Light Soft — VS Code**.
+Copy `themes/vitesse-creamy.json` to `~/.config/zed/themes/`, open Zed's theme selector (`Cmd+K`, then `Cmd+T` on macOS), and select **Vitesse Creamy**.
 
 ```sh
 mkdir -p ~/.config/zed/themes
-cp themes/vitesse-soft.json ~/.config/zed/themes/
+cp themes/vitesse-creamy.json ~/.config/zed/themes/
 ```
 
-The theme is already installed and selected on the machine where it was created. To revert, select **Vitesse Refined Light Soft**. Font and icon preferences are independent of this theme.
+Font and icon preferences are independent of this theme.
 
 ## Matching decisions
 

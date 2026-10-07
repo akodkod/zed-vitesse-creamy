@@ -1,4 +1,4 @@
-# Vitesse Light Soft — syntax and contrast preview
+# Vitesse Creamy — syntax and contrast preview
 module Garden
   class Plant
     MAX_HEIGHT = 120

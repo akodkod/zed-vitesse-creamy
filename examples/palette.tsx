@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-// Vitesse Light Soft — syntax and contrast preview
+// Vitesse Creamy — syntax and contrast preview
 interface Plant {
   id: number;
   name: string;
